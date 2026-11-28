@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW51emh3b2x4bnh2cWJ5Z3B6Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="180" style="object-fit: cover; border-radius: 8px;" alt="Dark Coding Banner" />
+
+<br/>
+
 # Hi there, I'm Oleg Veter
 
-**Telecom Information Security Student · Python & Telegram Bot Developer**
+**Python & Telegram Bot Developer · Web Application Builder**
 
 <p>
   <a href="https://t.me/your_username">
@@ -22,10 +26,14 @@
 
 ### About Me
 
-- Second-year student majoring in **Information Security of Telecommunication Systems** (`10.05.02`) at **Lobachevsky University (UNN)**.
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Gif" />
+
+- Second-year student at **Lobachevsky University (UNN)** with a strong focus on software engineering.
 - Member of the **Digitalization Department** at the **All-Russian Community of Rosatom Students (SSR)**.
 - Focused on building asynchronous Telegram bots with `aiogram`, backend automation, and minimalist web applications.
-- Currently exploring **Information Security**, **network protocols**, and **scalable bot architectures**.
+- Currently exploring **scalable bot architectures**, **REST APIs**, and **modern deployment pipelines**.
+
+<br clear="right"/>
 
 ---
 
