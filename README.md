@@ -1,44 +1,80 @@
-<!-- Шапка-баннер с анимацией -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2ca5e0&height=180§ion=header&text=Oleg%20Veter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=38BDF8¢er=true&vCenter=true&width=500&lines=Developing+Telegram+bots+with+aiogram;Studying+Telecom+Information+Security;Building+clean+and+minimal+web+apps" alt="Typing SVG" />
+# Hi there, I'm Oleg Veter
+
+**Telecom Information Security Student · Python & Telegram Bot Developer**
+
+<p>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
-
----
-
-### О себе
-- Студент **Информационной безопасности телекоммуникационных систем** (ННГУ им. Н. И. Лобачевского).
-- Занимаюсь разработкой Telegram-ботов на **Python (`aiogram`)**, бэкендом, асинхронными задачами и деплоем.
-- Участвую в развитии цифровых сервисов и внутренних ботов для **Всероссийского сообщества студентов Росатома (ССР)**.
-
-### Стек технологий
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,docker,linux,git,github,vscode,html,css,js&theme=dark" />
+  <a href="https://veter22.github.io/plane-planner/">
+    <img src="https://img.shields.io/badge/PLANÉ_Planner-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="PLANÉ" />
+  </a>
+  <a href="mailto:oleg.veter.08@mail.ru">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 </p>
 
-### Проекты
-- **[PLANÉ](https://veter22.github.io/plane-planner/)** — минималистичный веб-планировщик задач.
-- **Matchmaker & IT-Department Bots** — Telegram-боты для ССР (FSM-регистрация, middleware, маршрутизация сообщений, фоновые задачи).
-- **Проветриться / zpbot** — пет-проекты на `aiogram` для автоматизации и повседневных задач.
-
-### Статистика GitHub
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=veter22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veter22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
 
+### About Me
+
+- Second-year student majoring in **Information Security of Telecommunication Systems** (`10.05.02`) at **Lobachevsky University (UNN)**.
+- Member of the **Digitalization Department** at the **All-Russian Community of Rosatom Students (SSR)**.
+- Focused on building asynchronous Telegram bots with `aiogram`, backend automation, and minimalist web applications.
+- Currently exploring **Information Security**, **network protocols**, and **scalable bot architectures**.
+
+---
+
+### Tech Stack
+
+**Languages & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**Frontend & Web**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Tools & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[PLANÉ](https://veter22.github.io/plane-planner/)** | Minimalist personal web planner deployed on GitHub Pages | `HTML` · `CSS` · `JavaScript` |
+| **Matchmaker Bot** | Anonymous dating & chat-routing Telegram bot for Rosatom student community | `Python` · `aiogram` · `Middleware` |
+| **IT-Department Bot** | Internal workflow & task management bot for SSR Digitalization Department | `Python` · `aiogram` |
+| **Проветриться / zpbot** | Utility Telegram bots for daily automation and quick lookups | `Python` · `aiogram` |
+
+---
+
+### GitHub Analytics
+
 <div align="center">
-  <a href="https://t.me/Veter" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/olvegveter" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=veter22&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veter22&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veter22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
