@@ -9,11 +9,8 @@
 **Python & Telegram Bot Developer · Web Application Builder**
 
 <p>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/oveterr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://veter22.github.io/plane-planner/">
-    <img src="https://img.shields.io/badge/PLANÉ_Planner-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="PLANÉ" />
   </a>
   <a href="mailto:oleg.veter.08@mail.ru">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
