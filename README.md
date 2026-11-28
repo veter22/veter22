@@ -1,16 +1,18 @@
 <div align="center">
 
-  <img src="./banner.jpg" width="100%" alt="Oleg Veter" />
-
-  <br/><br/>
-
-  <!-- Динамическая строка с резервным доменом -->
+  <!-- Анимированный главный заголовок -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Telecom+Information+Security+Student+%40+UNN;Building+Async+Telegram+Bots+with+Python+%26+aiogram;Digitalization+Department+%40+Rosatom+Student+Community" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1500&color=F8FAFC¢er=true&vCenter=true&width=500&height=60&lines=Oleg+Veter" alt="Oleg Veter" />
+  </a>
+
+  <!-- Анимированный подзаголовок с ролями -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=620&height=35&lines=Telecom+Information+Security+Student+%40+UNN;Building+Async+Telegram+Bots+with+Python+%26+aiogram;Digitalization+Department+%40+Rosatom+Student+Community" alt="Roles" />
   </a>
 
   <br/>
 
+  <!-- Кнопки соцсетей и проектов -->
   <p>
     <a href="https://t.me/your_username">
       <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=38BDF8" alt="Telegram" />
@@ -23,9 +25,10 @@
     </a>
   </p>
 
-</div>
+  <!-- Минималистичная анимированная волна-разделитель -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:38bdf8&height=35§ion=footer&animation=twinkling" width="100%" alt="Divider" />
 
----
+</div>
 
 ### `whoami`
 
