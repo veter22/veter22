@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW51emh3b2x4bnh2cWJ5Z3B6Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="180" style="object-fit: cover; border-radius: 8px;" alt="Dark Coding Banner" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="180" style="object-fit: cover; border-radius: 8px;" alt="Dark Coding Banner" />
 
 <br/>
 
@@ -82,4 +82,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veter22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veter22/veter22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veter22/veter22/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veter22/veter22/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
